@@ -12,7 +12,7 @@ let package = Package(
             targets: ["Connector"]),
     ],
     dependencies: [
-        .package(path: "../PNetwork")
+        .package(name: "PNetwork", url: "https://github.com/renatocardial/poc-pnetwork.git", from: "1.0.0")
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
     ],

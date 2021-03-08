@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PNetwork",
+        "repositoryURL": "https://github.com/renatocardial/poc-pnetwork.git",
+        "state": {
+          "branch": null,
+          "revision": "da87dd3b56173568813c0c658805e1945827abd9",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
