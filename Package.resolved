@@ -5,9 +5,9 @@
         "package": "PNetwork",
         "repositoryURL": "https://github.com/renatocardial/poc-pnetwork.git",
         "state": {
-          "branch": null,
-          "revision": "da87dd3b56173568813c0c658805e1945827abd9",
-          "version": "1.0.0"
+          "branch": "master",
+          "revision": "72b8c4e0cc6765aa4e01cf76904dfc2d12d0f02b",
+          "version": null
         }
       }
     ]
