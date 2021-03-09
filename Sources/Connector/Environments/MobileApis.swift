@@ -13,7 +13,7 @@ class MobileApis: PEnvironment {
     var defaultHeaders: [String : String]
     
     init() {
-        self.baseUrl = "http://127.0.0.1"
+        self.baseUrl = "http://127.0.0.1:8000"
         self.defaultHeaders = [
             "content-type": "application/json"
         ]
